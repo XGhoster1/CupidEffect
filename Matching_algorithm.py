@@ -1,3 +1,3 @@
 print("hello Cupid is here!")
 
-print(hola mamasita)
+print("hola mamasita")
